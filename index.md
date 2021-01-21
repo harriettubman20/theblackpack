@@ -7,7 +7,7 @@ None of the content is gated behind a skill progression. Right out of the gate, 
 </p>
 
 <p align="center">
-  <a href="http://mc.theblackpack.net/modlist/">Modlist</a>
+  <a href="http://mc.theblackpack.net/modlist/">Mod List</a>
 </p>
 
 <!-- Add icon library -->
