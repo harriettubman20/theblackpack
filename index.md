@@ -4,8 +4,6 @@ None of the content is gated behind a skill progression. Right out of the gate, 
 
 <p align="center">
   <a href="https://www102.zippyshare.com/d/zHNsvWst/50421/The%20Black%20Pack.zip"><button class="btn"><i class="fa fa-download"></i> Download<br><small>372.33 MB</small></button></a>
-  
-  <a href="https://www102.zippyshare.com/d/zHNsvWst/50421/The%20Black%20Pack.zip">Download it here.</a>
 </p>
 
 <!-- Add icon library -->
