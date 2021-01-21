@@ -2,7 +2,7 @@
 
 None of the content is gated behind a skill progression. Right out of the gate, if you have the resources, you can make it. The early game will see players build shelter, acquire food, and gather resources like normal. But soon, they'll build their first smeltery and make custom tools with Tinkers Construct. They'll craft grappling hooks for their first movement boost. They'll make shock absorbers. Slowly become an unstoppable killing machine, until you inevitably can go anywhere and do anything. Once you've gotten there, you'll be pleased to see mods like Chisel, Xtones, and Flat Colored Blocks will allow you to put your resources to use and make anything you can imagine.
 
-<p align="center"><br><br>
+<p align="center"><br>
   <a href="https://www102.zippyshare.com/d/zHNsvWst/13002/The%20Black%20Pack.zip"><button class="btn"><i class="fa fa-download"></i> Download <small>372.33 MB</small></button></a>
 </p>
 
