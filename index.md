@@ -1,35 +1,5 @@
 ![Image](https://i.imgur.com/Zzr2nvZ.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**The Black Pack** is an attempt to recapture the magic of [The 1.7.10 Pack](https://www.curseforge.com/linkout?remoteUrl=https%253a%252f%252fwww.technicpack.net%252fmodpack%252fthe-1710-pack.453902). A kitchen sink pack with a focus on technology, this can either be your gateway to modded Minecraft or a new take on something you already know. These mods were hand-picked by myself, with no real theme other than "I like this." While it mainly includes staple technology mods like Thermal Foundation, Mekanism, and EnderIO, there are also some more niche choices: Ender Utilities, Modular Powersuits, Chisels and Bits, and many, many more.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](https://i.imgur.com/Zzr2nvZ.png)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/harriettubman20/theblackpack/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+None of the content is gated behind a skill progression. Right out of the gate, if you have the resources, you can make it. The early game will see players build shelter, acquire food, and gather resources like normal. But soon, they'll build their first smeltery and make custom tools with Tinkers Construct. They'll craft grappling hooks for their first movement boost. They'll make shock absorbers. Slowly become an unstoppable killing machine, until you inevitably can go anywhere and do anything. Once you've gotten there, you'll be pleased to see mods like Chisel, Xtones, and Flat Colored Blocks will allow you to put your resources to you and make anything you can imagine.
