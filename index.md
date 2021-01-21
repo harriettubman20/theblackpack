@@ -10,6 +10,3 @@ None of the content is gated behind a skill progression. Right out of the gate, 
 
 <!-- Add icon library -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
-<!-- Auto width -->
-<button class="btn"><i class="fa fa-download"></i> Download</button>
