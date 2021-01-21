@@ -1,5 +1,5 @@
 
-layout: page
+layout: default
 theme:midnight
 title: "Modlist"
 permalink: /modlist/
