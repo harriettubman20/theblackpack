@@ -3,6 +3,9 @@ layout: default
 title: "Modlist"
 permalink: /modlist/
 ---
+<div style="height:500px;width:450px;border:1px solid #ccc">
+As you can see, once there's enough text in this box, the box will grow scroll bars... that's why we call it a scroll box! You could also place an image into the scroll box.
+</div>
 ActuallyAdditions-1.12.2-r152.jar
 
 ActuallyBaubles-1.12-1.1.jar
@@ -394,3 +397,4 @@ Xtones-1.2.1.jar
 YABBA-1.1.2.54.jar
 
 zerocore-1.12.2-0.1.2.8.jar
+</div>
