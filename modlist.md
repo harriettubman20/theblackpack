@@ -3,10 +3,10 @@ layout: default
 title: "Modlist"
 permalink: /modlist/
 ---
-<div style="height:500px;width:754px;border:1px solid #fff;overflow:auto">
-ActuallyAdditions-1.12.2-r152.jar
+<div style="height:500px;width:754px;overflow:auto">
+<li>ActuallyAdditions-1.12.2-r152.jar
 
-ActuallyBaubles-1.12-1.1.jar
+<li>ActuallyBaubles-1.12-1.1.jar
 
 ae2stuff-0.7.0.4-mc1.12.2.jar
 
