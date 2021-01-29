@@ -3,7 +3,7 @@ layout: default
 title: "Modlist"
 permalink: /modlist/
 ---
-<div style="height:500px;width:450px;border:1px solid #ccc">
+<div style="height:500px;width:754px;border:0px solid #fff">
 ActuallyAdditions-1.12.2-r152.jar
 
 ActuallyBaubles-1.12-1.1.jar
